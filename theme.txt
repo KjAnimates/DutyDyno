@@ -1,0 +1,6 @@
+   jasper: #C84630
+ platinum: #E3E3E3
+     jade: #5DA271
+
+Credits: https://coolors.co
+Theme: https://coolors.co/c84630-d4a0a7-e3e3e3-898989-5da271
